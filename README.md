@@ -27,3 +27,11 @@ This was my final project for my data science class in spring 2023, but I though
 
 ![mp3-1](/figs/maxpool3-1.png)
 ![mp3-2](/figs/maxpool3-2.png)
+
+### Some more cool example images:
+
+![ce-1](/figs/coolexample-1.png)
+![ce-2](/figs/coolexample-2.png)
+![ce-3](/figs/coolexample-3.png)
+![ce-4](/figs/coolexample-4.png)
+![ce-5](/figs/coolexample-5.png)
