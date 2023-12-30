@@ -15,4 +15,5 @@ This was my final project for my data science class in spring 2023, but I though
 
 ### Kernels from maxpool1 layer:
 
-![]{figs/maxpool1-1.png}
+![mp1-1]{/figs/maxpool1-1.png}
+![mp1-2]{/figs/maxpool1-2.png}
